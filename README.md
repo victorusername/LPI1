@@ -5,4 +5,4 @@
 # Estou colocando as minhas anotaçõe. 
 # Download, edições e compartilhamento são autorizados :) 
 
-# Canal Youtube: https://www.youtube.com/channel/UCw0_zZ0p4xJNZ65znsJtEoQ/featured
+# Canal do treinamento com professor Rafael Foschiani: https://www.youtube.com/channel/UCw0_zZ0p4xJNZ65znsJtEoQ/featured
